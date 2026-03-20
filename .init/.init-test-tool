@@ -1,0 +1,4 @@
+{
+    "command": "npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/fitness-dashboard-platform-335328-335344/fitness_app_frontend"
+}
